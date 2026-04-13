@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://opensource.org/licenses/MIT)
 
-![To see my visual just click :)](C:\Users\Hakan\Downloads\la_evening.jpg)
+[To see the visual just click :)](la_evening.png)
